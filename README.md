@@ -4,7 +4,7 @@
 
 Built on 735 trips across 13 weeks of verified London Uber data. Reduces the entire operational design to one control variable (δ), five equations, and one decision rule.
 
-🔗 **Live dashboard:** [cnhr_dashboard.html](https://shehzadqayum.github.io/cnhr-mnhr-framework/dashboard/cnhr_dashboard.html)
+🔗 **Live dashboard:** [CNHR Dashboard.html](https://shehzadqayum.github.io/cnhr-mnhr-framework/dashboard/cnhr_dashboard.html)
 
 ---
 
